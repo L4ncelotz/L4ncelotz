@@ -1,56 +1,31 @@
-# 🐾 Hi, I'm Estellez
+# Hello, I'm Estellez 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=440&lines=Computer+Science+Student+🎓;Black+Cat+Themed+Developer+🐈‍⬛;Coding+Through+The+Night+🌙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Web+Developer;Always+Learning" alt="Typing SVG" />
 </div>
 
-## About Me 🐈‍⬛
-- 🎓 Computer Science Student in Thailand
-- 🌙 Working on various JavaScript and Laravel projects
-- 📺 Content Creator on YouTube
-- 🌱 Always learning new technologies in the darkness
+## About Me
+- 📚 Computer Science Student from Thailand
+- 💻 Web Developer focusing on JavaScript and Laravel
+- 🎥 Content Creator on YouTube
+- 🌱 Always eager to learn new technologies
 
-## Skills & Tools ⚡
+## Tech Stack
 <div align="center">
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php&logoColor=777BB4)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=F05032)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 </div>
 
-## Find Me Around The Web 🌐
+## Connect With Me
 <div align="center">
   
-[![YouTube](https://img.shields.io/badge/-YouTube-333333?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@your-channel)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/L4ncelotz)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@your-channel)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/L4ncelotz)
 </div>
 
-## My GitHub Stats 📊
+## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L4ncelotz&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L4ncelotz&theme=midnight-purple" alt="GitHub Streak" />
-</div>
-
-## Top Languages 📈
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ncelotz&layout=compact&theme=midnight-purple" alt="Top Languages" />
-</div>
-
-## Current Projects 🌙
-- 🛒 Shopping Cart Project (JavaScript)
-- ⭐ Stellar Project
-- 🔧 Laravel CRUD Applications
-
----
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=L4ncelotz&color=9745F5)
-  
-  *"In the darkness of code, we find our brightest solutions"* 🐈‍⬛
+  <img src="https://github-readme-stats.vercel.app/api?username=L4ncelotz&show_icons=true&theme=default" alt="GitHub Stats" />
 </div>
