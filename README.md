@@ -1,46 +1,57 @@
-# 👋 Hi, I'm Estellez
+# 🐾 Hi, I'm Estellez
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38F77EFF&center=true&vCenter=true&width=440&lines=Grade+12+Student+from+Thailand+🇹🇭;Full+Stack+Developer+in+Training+💻;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=440&lines=Computer+Science+Student+🎓;Black+Cat+Themed+Developer+🐈‍⬛;Coding+Through+The+Night+🌙" alt="Typing SVG" />
 </div>
 
-## About Me 👨‍💻
-- 🎓 Currently studying in Grade 12 in Thailand
-- 💻 Learning Full Stack Development
-- 🌱 Working on various JavaScript and Laravel projects
-- 🔭 Always exploring new technologies
+## About Me 🐈‍⬛
+- 🎓 Computer Science Student in Thailand
+- 💜 Black cat enthusiast and night owl coder
+- 🌙 Working on various JavaScript and Laravel projects
+- 📺 Content Creator on YouTube
+- 🌱 Always learning new technologies in the darkness
 
-## Skills & Tools 🛠️
+## Skills & Tools ⚡
 <div align="center">
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php&logoColor=777BB4)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=F05032)
+</div>
+
+## Find Me Around The Web 🌐
+<div align="center">
+  
+[![YouTube](https://img.shields.io/badge/-YouTube-333333?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@your-channel)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/L4ncelotz)
 </div>
 
 ## My GitHub Stats 📊
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L4ncelotz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L4ncelotz&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L4ncelotz&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L4ncelotz&theme=midnight-purple" alt="GitHub Streak" />
 </div>
 
 ## Top Languages 📈
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ncelotz&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L4ncelotz&layout=compact&theme=midnight-purple" alt="Top Languages" />
 </div>
 
-## Currently Working On 🔭
-- Shopping Cart Project (JavaScript)
-- Stellar Project
-- Laravel CRUD Applications
+## Current Projects 🌙
+- 🛒 Shopping Cart Project (JavaScript)
+- ⭐ Stellar Project
+- 🔧 Laravel CRUD Applications
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=L4ncelotz&color=brightgreen" alt="Profile Views" />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=L4ncelotz&color=9745F5)
+  
+  *"In the darkness of code, we find our brightest solutions"* 🐈‍⬛
 </div>
