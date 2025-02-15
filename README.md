@@ -6,7 +6,6 @@
 
 ## About Me 🐈‍⬛
 - 🎓 Computer Science Student in Thailand
-- 💜 Black cat enthusiast and night owl coder
 - 🌙 Working on various JavaScript and Laravel projects
 - 📺 Content Creator on YouTube
 - 🌱 Always learning new technologies in the darkness
