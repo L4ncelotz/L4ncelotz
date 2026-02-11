@@ -19,12 +19,32 @@ const estellez = {
     pronouns: "he/him",
     location: "Thailand 🇹🇭",
     currently: "Computer Science Student",
-    interests: ["Web Development", "Creative Coding", "Content Creation"],
+    interests: [
+        "Web Development", 
+        "Car & Sport", 
+        "Content Creation", 
+        "Data Science & AI"
+    ],
     skills: {
-        languages: ["JavaScript", "PHP", "HTML", "CSS"],
-        frameworks: ["Laravel", "Vue.js"],
-        databases: ["MySQL", "MongoDB"],
-        tools: ["Git", "VS Code", "Figma"]
+        languages: ["Python", "JS", "PHP", "HTML", "SQL"],
+       frameworks: [
+            "Next.js", "React", "Vue.js", "Laravel", 
+            "Express.js", "TailwindCSS", "Bootstrap", "gRPC"
+        ],
+        databases: [
+            "PostgreSQL", "MySQL", "MongoDB",
+            "Supabase", "Firebase"
+	],
+        tools: [
+            "Git", "Gitlab", "Zed", "IntelliJ IDEA", 
+            "Docker", "GCP", "Figma", "Postman", "Render", "Orange"
+        ],
+        dataAI: ["TensorFlow", "PyTorch", "Scikit-learn", "Kaggle"],
+        others: [
+            "PC Troubleshooting", 
+            "Server Management", 
+            "Content Creation"
+        ]
     },
     funFact: "I love turning coffee into code ☕"
 };
