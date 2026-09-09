@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <rect x="1" y="1" width="1198" height="218" rx="22" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g transform="translate(28 28)">
+      <rect width="354" height="164" rx="16" fill="#11161d" stroke="#262d36"/>
+      <rect x="18" y="18" width="44" height="4" rx="2" fill="#ff7aa8"/>
+      <text x="18" y="52" font-size="11" font-weight="700" fill="#ff9fbd" letter-spacing="1.5">BUILD</text>
+      <text x="18" y="84" font-size="19" font-weight="700" fill="#f0f6fc">Developer tools</text>
+      <text x="18" y="110" font-size="14" fill="#8b949e">Open-source projects</text>
+      <text x="18" y="140" font-size="12" fill="#6e7681">shipping things I want to use</text>
+    </g>
+
+    <g transform="translate(423 28)">
+      <rect width="354" height="164" rx="16" fill="#11161d" stroke="#262d36"/>
+      <rect x="18" y="18" width="44" height="4" rx="2" fill="#b18cff"/>
+      <text x="18" y="52" font-size="11" font-weight="700" fill="#c8adff" letter-spacing="1.5">LEARN</text>
+      <text x="18" y="84" font-size="19" font-weight="700" fill="#f0f6fc">Cloud infrastructure</text>
+      <text x="18" y="110" font-size="14" fill="#8b949e">DevOps</text>
+      <text x="18" y="140" font-size="12" fill="#6e7681">from apps to how they run</text>
+    </g>
+
+    <g transform="translate(818 28)">
+      <rect width="354" height="164" rx="16" fill="#11161d" stroke="#262d36"/>
+      <rect x="18" y="18" width="44" height="4" rx="2" fill="#66d9ef"/>
+      <text x="18" y="52" font-size="11" font-weight="700" fill="#8be6f7" letter-spacing="1.5">EXPLORE</text>
+      <text x="18" y="84" font-size="19" font-weight="700" fill="#f0f6fc">Systems</text>
+      <text x="18" y="110" font-size="14" fill="#8b949e">Networking · Automation</text>
+      <text x="18" y="140" font-size="12" fill="#6e7681">understanding what sits underneath</text>
+    </g>
+  </g>
+</svg>

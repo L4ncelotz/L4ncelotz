@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff7aa8"/>
+      <stop offset="0.5" stop-color="#b18cff"/>
+      <stop offset="1" stop-color="#66d9ef"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="248" rx="22" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="28" y="28" width="5" height="194" rx="2.5" fill="url(#accent)"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="62" y="62" font-size="12" font-weight="700" fill="#8b949e" letter-spacing="1.6">A LITTLE ABOUT ME</text>
+
+    <text x="62" y="104" font-size="21" font-weight="700" fill="#f0f6fc">I’m Estellez — a Computer Science student from Thailand.</text>
+    <text x="62" y="137" font-size="15" fill="#c9d1d9">I build developer tools, full-stack applications, and automation — usually with a focus on clean interfaces and practical architecture.</text>
+
+    <text x="62" y="184" font-size="13" font-weight="700" fill="#8b949e">PATH</text>
+    <text x="112" y="184" font-size="14" fill="#f0f6fc">Web</text>
+    <text x="153" y="184" font-size="14" fill="#6e7681">→</text>
+    <text x="178" y="184" font-size="14" fill="#f0f6fc">Full-stack</text>
+    <text x="244" y="184" font-size="14" fill="#6e7681">→</text>
+    <text x="269" y="184" font-size="14" fill="#f0f6fc">Tooling</text>
+    <text x="316" y="184" font-size="14" fill="#6e7681">→</text>
+    <text x="341" y="184" font-size="14" fill="#f0f6fc">Systems / DevOps</text>
+
+    <text x="62" y="216" font-size="13" fill="#8b949e">I like software that is useful, visually clean, and interesting to build.</text>
+  </g>
+</svg>
