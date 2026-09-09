@@ -15,7 +15,7 @@
 
 <br>
 
-## 01 / Selected work
+01 / Selected work
 
 <p align="center">
   <a href="https://github.com/L4ncelotz/Originlog">
@@ -37,13 +37,13 @@
 
 <br>
 
-## 02 / Stack
+02 / Stack
 
 <table>
 <tr>
 <td width="44%" valign="top">
 
-### Most used languages
+Most used languages
 
 <div align="center">
   <img
@@ -56,7 +56,7 @@
 </td>
 <td width="56%" valign="top">
 
-### What I work with
+What I work with
 
 <img src="./assets/stack.svg" width="100%" alt="Estellez tech stack" />
 
@@ -66,43 +66,15 @@
 
 <br>
 
-## 03 / Current focus
+03 / Current focus
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### Build
-Developer tools  
-Open-source projects
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### Learn
-Cloud infrastructure  
-DevOps
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### Explore
-Systems  
-Networking · Automation
-
-</td>
-</tr>
-</table>
+<img src="./assets/focus.svg" width="100%" alt="Current focus: build, learn, explore" />
 
 <br>
 
-## 04 / About
+04 / About
 
-I’m **Estellez**, a Computer Science student and software developer from Thailand.
-
-I started with web development and gradually moved toward **full-stack applications, developer tooling, automation, and systems-oriented projects**.
-
-I like software that is practical, visually clean, and interesting to build.
+<img src="./assets/about.svg" width="100%" alt="About Estellez" />
 
 <br>
 
