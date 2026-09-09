@@ -1,92 +1,188 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=Welcome%20to%20Estellez's%20Profile&fontSize=50&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Web%20Developer&descAlignY=55&animation=twinkling&fontColor=ffffff" width="100%"/>
-</div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=30&duration=4000&pause=1000&color=00B4DB&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Estellez+%F0%9F%8C%9F;Let's+Create+Something+Cool+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG"/>
-  </a>
-</h1>
+<img src="https://github.com/L4ncelotz.png" width="100" alt="Estellez" />
 
-<div align="center">
-  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-</div>
+Estellez
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+Software Developer
 
-```javascript
-const estellez = {
-    pronouns: "he/him",
-    location: "Thailand 🇹🇭",
-    currently: "Computer Science Student",
-    interests: [
-        "Web Development", 
-        "Car & Sport", 
-        "Content Creation", 
-        "Data Science & AI"
-    ],
-    skills: {
-        languages: ["Python", "JS", "PHP", "HTML", "SQL"],
-       frameworks: [
-            "Next.js", "React", "Vue.js", "Laravel", 
-            "Express.js", "TailwindCSS", "Bootstrap", "gRPC"
-        ],
-        databases: [
-            "PostgreSQL", "MySQL", "MongoDB",
-            "Supabase", "Firebase"
-	],
-        tools: [
-            "Git", "Gitlab", "Zed", "IntelliJ IDEA", 
-            "Docker", "GCP", "Figma", "Postman", "Render", "Orange"
-        ],
-        dataAI: ["TensorFlow", "PyTorch", "Scikit-learn", "Kaggle"],
-        others: [
-            "PC Troubleshooting", 
-            "Server Management", 
-            "Content Creation"
-        ]
-    },
-    funFact: "I love turning coffee into code ☕"
-};
-```
+Developer Tools · Full-stack · Automation · DevOps
 
-## 🛠️ Technologies & Tools
+<sub>Computer Science student from Thailand — building practical software with clean interfaces.</sub>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,html,css,laravel,vue,mysql,git,vscode&theme=light" />
+<br><br>
+
+<a href="https://github.com/L4ncelotz">
+  <img src="https://img.shields.io/badge/GitHub-L4ncelotz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.youtube.com/@Estellez17">
+  <img src="https://img.shields.io/badge/YouTube-Estellez17-FF6B9D?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,50:A78BFA,100:59D9FF&height=3&section=header" width="58%" alt="" />
+
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+01 / Featured
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Originlog ↗
+
+Local-first code provenance for AI-assisted development.
+
+<br>
+
+TypeScript CLI Developer Tools
+
+</td>
+<td width="50%" valign="top">
+
+ATMOS ↗
+
+Ambient weather rendered as living terminal scenes.
+
+<br>
+
+Python CLI Terminal
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+Mochi Player ↗
+
+A playful music player focused on clean interaction and UI.
+
+<br>
+
+React TypeScript Zustand
+
+</td>
+<td width="50%" valign="top">
+
+Estz Optimizer ↗
+
+A Windows utility built with Tauri, Rust, and React.
+
+<br>
+
+Rust Tauri React
+
+</td>
+</tr>
+</table>
+
+<br>
+
+02 / Stack & activity
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Most used languages
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=L4ncelotz&show_icons=true&bg_color=DEG,00B4DB,0083B0&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=true" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=L4ncelotz&background=0083B0&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img
+    src="https://stats-cards.nirel.cc/v1/top-langs/github?username=L4ncelotz&theme=black-pink"
+    width="100%"
+    alt="Most used languages"
+  />
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+What I work with
+
+Frontend
+React · Next.js · Tailwind CSS
+
+Backend
+Node.js · FastAPI · PostgreSQL · SQLite · Redis
+
+Tools / Infra
+Git · Docker · GitHub Actions · Linux
+
+Also exploring
+Rust · Tauri · gRPC
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://stats-cards.nirel.cc/v1/activity/github?username=L4ncelotz&period=6_months&with_title=true&theme=black-pink"
+width="100%"
+alt="GitHub activity"
+/>
+
 </div>
 
 <br>
 
-## ⭐ GitHub Trophies
+03 / Current focus
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+Build
+
+Developer tools
+Open-source projects
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Learn
+
+Cloud infrastructure
+DevOps
+
+</td>
+<td width="33%" align="center" valign="top">
+
+Explore
+
+Systems
+Networking · Automation
+
+</td>
+</tr>
+</table>
+
+<br>
+
+04 / About
+
+I like building software that is useful, visually clean, and a little different from the usual CRUD app.
+
+I started with web development and gradually moved toward full-stack applications, developer tooling, automation, and systems-oriented projects.
+
+Currently going deeper into cloud infrastructure and DevOps.
+
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L4ncelotz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:59D9FF,50:A78BFA,100:FF6B9D&height=2&section=footer" width="35%" alt="" />
+
+<br>
+
+<sub><b>estz / estellez</b></sub>
+
 </div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.youtube.com/@Estellez17">
-    <img src="https://img.shields.io/badge/YouTube-▶-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://github.com/L4ncelotz">
-    <img src="https://img.shields.io/badge/GitHub-💻-0083B0?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=120&section=footer" width="100%"/>
-</div>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=L4ncelotz&bg_color=transparent&color=00B4DB&line=0083B0&point=00B4DB&area=true&hide_border=true" width="100%"/>
