@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6b9d"/>
+      <stop offset=".52" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#59d9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="26" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="248" rx="25" fill="none" stroke="#30363d" stroke-width="2"/>
+  <rect x="52" y="54" width="6" height="118" rx="3" fill="url(#accent)"/>
+  <text x="84" y="105" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5" fill="#f0f6fc">Estellez</text>
+  <text x="86" y="142" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" fill="#c9d1d9">Software Developer</text>
+  <text x="86" y="176" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" fill="#8b949e">developer tools · full-stack · automation · devops</text>
+
+  <g transform="translate(880 54)">
+    <rect width="260" height="142" rx="22" fill="#161b22" stroke="#30363d"/>
+    <text x="28" y="42" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#8b949e">current focus</text>
+    <text x="28" y="78" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">Cloud &amp; DevOps</text>
+    <text x="28" y="106" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#8b949e">systems · infrastructure</text>
+    <circle cx="220" cy="38" r="6" fill="#ff6b9d"/>
+    <circle cx="238" cy="38" r="6" fill="#59d9ff"/>
+  </g>
+</svg>

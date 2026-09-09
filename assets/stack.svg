@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+  <rect x="1" y="1" width="1198" height="248" rx="22" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="42" y="48" font-size="14" font-weight="700" fill="#f0f6fc">Languages</text>
+    <text x="42" y="78" font-size="14" fill="#8b949e">TypeScript · JavaScript · Python · Rust · SQL</text>
+
+    <text x="42" y="126" font-size="14" font-weight="700" fill="#f0f6fc">Frontend</text>
+    <text x="42" y="156" font-size="14" fill="#8b949e">React · Next.js · Tailwind CSS</text>
+
+    <text x="640" y="48" font-size="14" font-weight="700" fill="#f0f6fc">Backend &amp; Data</text>
+    <text x="640" y="78" font-size="14" fill="#8b949e">Node.js · FastAPI · PostgreSQL · SQLite · Redis</text>
+
+    <text x="640" y="126" font-size="14" font-weight="700" fill="#f0f6fc">Tools &amp; Infrastructure</text>
+    <text x="640" y="156" font-size="14" fill="#8b949e">Git · Docker · GitHub Actions · Linux · gRPC</text>
+
+    <text x="42" y="210" font-size="12" fill="#6e7681">Focused stack, not every tool I've ever touched.</text>
+  </g>
+  <circle cx="1110" cy="48" r="7" fill="#ff6b9d"/>
+  <circle cx="1134" cy="48" r="7" fill="#a78bfa"/>
+  <circle cx="1158" cy="48" r="7" fill="#59d9ff"/>
+</svg>
