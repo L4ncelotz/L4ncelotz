@@ -1,95 +1,49 @@
 <div align="center">
 
-<img src="https://github.com/L4ncelotz.png" width="100" alt="Estellez" />
+<img src="./assets/header.svg" width="100%" alt="Estellez — Software Developer" />
 
-Estellez
-
-Software Developer
-
-Developer Tools · Full-stack · Automation · DevOps
-
-<sub>Computer Science student from Thailand — building practical software with clean interfaces.</sub>
-
-<br><br>
+<br>
 
 <a href="https://github.com/L4ncelotz">
-  <img src="https://img.shields.io/badge/GitHub-L4ncelotz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-L4ncelotz-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.youtube.com/@Estellez17">
-  <img src="https://img.shields.io/badge/YouTube-Estellez17-FF6B9D?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://img.shields.io/badge/YouTube-Estellez17-ff6b9d?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,50:A78BFA,100:59D9FF&height=3&section=header" width="58%" alt="" />
 
 </div>
 
 <br>
 
-01 / Featured
+## 01 / Selected work
+
+<p align="center">
+  <a href="https://github.com/L4ncelotz/Originlog">
+    <img src="./assets/originlog.svg" width="48%" alt="Originlog" />
+  </a>
+  <a href="https://github.com/L4ncelotz/ATMOS">
+    <img src="./assets/atmos.svg" width="48%" alt="ATMOS" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/L4ncelotz/Mochi_Player-Webapp">
+    <img src="./assets/mochi.svg" width="48%" alt="Mochi Player" />
+  </a>
+  <a href="https://github.com/L4ncelotz/Estz-Optimizer">
+    <img src="./assets/optimizer.svg" width="48%" alt="Estz Optimizer" />
+  </a>
+</p>
+
+<br>
+
+## 02 / Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="44%" valign="top">
 
-Originlog ↗
-
-Local-first code provenance for AI-assisted development.
-
-<br>
-
-TypeScript CLI Developer Tools
-
-</td>
-<td width="50%" valign="top">
-
-ATMOS ↗
-
-Ambient weather rendered as living terminal scenes.
-
-<br>
-
-Python CLI Terminal
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-Mochi Player ↗
-
-A playful music player focused on clean interaction and UI.
-
-<br>
-
-React TypeScript Zustand
-
-</td>
-<td width="50%" valign="top">
-
-Estz Optimizer ↗
-
-A Windows utility built with Tauri, Rust, and React.
-
-<br>
-
-Rust Tauri React
-
-</td>
-</tr>
-</table>
-
-<br>
-
-02 / Stack & activity
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-Most used languages
+### Most used languages
 
 <div align="center">
   <img
@@ -100,21 +54,11 @@ Most used languages
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="56%" valign="top">
 
-What I work with
+### What I work with
 
-Frontend
-React · Next.js · Tailwind CSS
-
-Backend
-Node.js · FastAPI · PostgreSQL · SQLite · Redis
-
-Tools / Infra
-Git · Docker · GitHub Actions · Linux
-
-Also exploring
-Rust · Tauri · gRPC
+<img src="./assets/stack.svg" width="100%" alt="Estellez tech stack" />
 
 </td>
 </tr>
@@ -122,43 +66,28 @@ Rust · Tauri · gRPC
 
 <br>
 
-<div align="center">
-
-<img
-src="https://stats-cards.nirel.cc/v1/activity/github?username=L4ncelotz&period=6_months&with_title=true&theme=black-pink"
-width="100%"
-alt="GitHub activity"
-/>
-
-</div>
-
-<br>
-
-03 / Current focus
+## 03 / Current focus
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-Build
-
-Developer tools
+### Build
+Developer tools  
 Open-source projects
 
 </td>
 <td width="33%" align="center" valign="top">
 
-Learn
-
-Cloud infrastructure
+### Learn
+Cloud infrastructure  
 DevOps
 
 </td>
 <td width="33%" align="center" valign="top">
 
-Explore
-
-Systems
+### Explore
+Systems  
 Networking · Automation
 
 </td>
@@ -167,22 +96,16 @@ Networking · Automation
 
 <br>
 
-04 / About
+## 04 / About
 
-I like building software that is useful, visually clean, and a little different from the usual CRUD app.
+I’m **Estellez**, a Computer Science student and software developer from Thailand.
 
-I started with web development and gradually moved toward full-stack applications, developer tooling, automation, and systems-oriented projects.
+I started with web development and gradually moved toward **full-stack applications, developer tooling, automation, and systems-oriented projects**.
 
-Currently going deeper into cloud infrastructure and DevOps.
+I like software that is practical, visually clean, and interesting to build.
 
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:59D9FF,50:A78BFA,100:FF6B9D&height=2&section=footer" width="35%" alt="" />
-
-<br>
-
 <sub><b>estz / estellez</b></sub>
-
 </div>
